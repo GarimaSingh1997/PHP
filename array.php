@@ -20,3 +20,5 @@ print_r($numbers);
 echo "<br>";
 array_unshift($numbers, 11);
 print_r($numbers);
+
+/* further we can read more array functions from the link https://www.learn-php.org/en/Simple_arrays */
