@@ -1,5 +1,5 @@
 <?php
-define("name", "Chetan");
+define("name", "Garima");
 define("PI", 3.14);
 print(name);
 $area = PI * 5*5;
