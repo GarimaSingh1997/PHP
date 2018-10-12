@@ -3,9 +3,7 @@
       
       <?php
          $d = date("D");
-       //how date function works in PHP
-       //http://php.net/manual/en/function.date.php
-       
+      
        print("$d<br>");
          
          switch ($d){
