@@ -19,6 +19,7 @@
             )
          );
          
+
          /* Accessing multi-dimensional array values */
          echo "Marks for mohammad in physics : " ;
          echo $marks['mohammad']['physics'] . "<br />"; 
