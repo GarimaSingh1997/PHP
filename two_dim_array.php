@@ -10,7 +10,6 @@
                "maths" => 32,
                "chemistry" => 29
             ),
-            
             "zara" => array (
                "physics" => 31,
                "maths" => 22,
