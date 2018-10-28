@@ -16,7 +16,6 @@
                "chemistry" => 39
             )
          );
-         
 
          /* Accessing multi-dimensional array values */
          echo "Marks for mohammad in physics : " ;
