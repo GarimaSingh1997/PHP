@@ -5,7 +5,6 @@
                "maths" => 30,	
                "chemistry" => 39
             ),
-            
             "qadir" => array (
                "physics" => 30,
                "maths" => 32,
