@@ -6,6 +6,5 @@
          Age: <input type = "text" name = "age" />
          <input type = "submit" />
       </form>
-      
    </body>
 </html>
